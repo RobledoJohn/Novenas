@@ -1,7 +1,7 @@
 function pasoUno() {
   return (
     <>
-      <h2>Horacion para todos los días</h2>
+      <h2 className="titulos">Horacion para todos los días</h2>
       <p>
         Benignísimo Dios de infinita caridad, que tanto amasteis a los hombres,
         que les disteis en vuestro Hijo la mejor prenda de vuestro amor, para
